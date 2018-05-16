@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\backup_Ibrahim_or\CustomProjects\Patterns\Spring_in_eclipse_2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3433368898.index

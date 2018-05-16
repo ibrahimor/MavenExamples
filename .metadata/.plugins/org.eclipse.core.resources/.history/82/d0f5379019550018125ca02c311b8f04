@@ -1,0 +1,5 @@
+package com.ibrahim.product.dao;
+
+public interface ProductDAO {
+
+}

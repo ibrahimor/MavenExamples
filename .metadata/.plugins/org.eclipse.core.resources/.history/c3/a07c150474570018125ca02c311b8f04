@@ -1,0 +1,5 @@
+package com.ibrahim.product.bo;
+
+public interface ProductBO {
+
+}
